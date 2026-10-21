@@ -21,7 +21,7 @@ No VsCODE
 
 # AUTOR
 MOREIRA, Iury. Sistema Bancário Simples.
-https://linkedIn.com/in/iury-moreira-lopes
+https://linkedIn.com/in/iury-moreira-lopes-3b06073b6
 UFCI campus Divinópolis. out 2026.
 
 
