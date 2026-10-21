@@ -30,3 +30,9 @@ gcc main.c -o programa
 * MOREIRA, Iury. Sistema Bancário Simples.
 * https://linkedIn.com/in/iury-moreira-lopes-3b06073b6
 *  **UFCI - Campus Divinópolis** | Outubro de 2026.
+
+## PRINTS 
+
+<img width="2126" height="1394" alt="printf01" src="https://github.com/user-attachments/assets/4a0a1d7b-148d-473f-b1f8-17c92a8d4797" />
+<img width="1475" height="318" alt="print02" src="https://github.com/user-attachments/assets/0a0e5878-6d56-47eb-aff7-bf0bb95bbf94" />
+
